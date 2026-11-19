@@ -1,4 +1,4 @@
-Full stack developer in Istanbul. I build web apps with Next.js, React and TypeScript, usually with Go and PostgreSQL on the backend.
+Full stack developer. I build web apps with Next.js, React and TypeScript, usually with Go and PostgreSQL on the backend.
 
 Lately I've been working on tools that give AI assistants reliable Turkish data. The first one is [tcmb-mcp](https://github.com/efeozkanw/tcmb-mcp), an MCP server for the Central Bank's daily exchange rates.
 
